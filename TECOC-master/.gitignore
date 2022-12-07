@@ -1,0 +1,11 @@
+
+*.o
+*.obj
+*~
+*.bak
+*.exe
+src/clpars.h
+src/genclp
+src/tecoc
+*.tmp
+

@@ -1,0 +1,11 @@
+# VSCode
+.vscode/
+
+# Sphinx documentation
+docs/_build/doctrees/
+docs/_build/html/_sources/
+
+# Offline issues
+offline-issues/
+
+/deploydocs.bat
